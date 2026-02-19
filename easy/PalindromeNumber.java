@@ -1,3 +1,17 @@
+/*
+Problem: Palindrome Number
+
+Approach:
+Reverse digits of number and compare with original.
+
+Time Complexity: O(log n)
+Space Complexity: O(1)
+
+Concepts Used:
+- While loop
+- Modulus operator
+- Integer division
+*/
 import java.util.*;
 
 public class PalindromeNumber {
