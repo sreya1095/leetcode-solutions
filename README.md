@@ -70,7 +70,7 @@ leetcode-solutions/
 
 |----------|--------|
 
-| Easy | 1 |
+| Easy | 2 |
 
 | Medium | 0 |
 
