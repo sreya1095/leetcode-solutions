@@ -1,92 +1,55 @@
-\# 💻 LeetCode Solutions Repository
+# 🚀 LeetCode Solutions
 
-
-
-Welcome to my LeetCode practice repository 🚀  
-
-This repo contains my solutions categorized by difficulty level as I practice Data Structures \& Algorithms daily.
-
-
+This repository contains my LeetCode practice solutions in Java.
 
 ---
 
-
-
-\## 📂 Folder Structure
-
-
-
-```
+## 📂 Structure
 
 leetcode-solutions/
-
 │── easy/
-
 │── medium/
-
 │── hard/
 
-│── README.md
-
-```
-
-
-
----
-
-
-
-\## 🧠 Languages Used
-
-\- Java ☕
-
-
+Each solution includes:
+- Problem description
+- Approach
+- Time Complexity
+- Space Complexity
+- Java implementation
 
 ---
 
+## 🧠 Topics Covered
 
+- Arrays
+- Strings
+- Stack
+- Recursion
+- Basic Math
+- Logic Building
 
-\## 🎯 Goal
-
-\- Strengthen problem-solving skills  
-
-\- Improve DSA concepts  
-
-\- Prepare for coding interviews  
-
-\- Maintain daily consistency  
-
-
+(More topics will be added as I progress)
 
 ---
 
+## 🎯 Goal
 
-
-\## 📊 Progress Tracker
-
-
-
-| Difficulty | Solved |
-
-|----------|--------|
-
-| Easy | 2 |
-
-| Medium | 0 |
-
-| Hard | 0 |
-
-
-
-\*(Will update daily)\*
-
-
+- Strengthen Data Structures & Algorithms
+- Prepare for coding interviews
+- Improve problem-solving skills
+- Maintain daily consistency
 
 ---
 
+## 📈 Progress Tracker
 
+| Difficulty | Problems Solved |
+|------------|-----------------|
+| Easy       | Updating daily  |
+| Medium     | Coming soon     |
+| Hard       | Coming soon     |
 
-⭐ \*\*Consistency beats talent — Daily coding in progress\*\*
+---
 
-
-
+Consistency is key 🔥
