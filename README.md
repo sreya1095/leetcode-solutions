@@ -46,7 +46,7 @@ Each solution includes:
 
 | Difficulty | Problems Solved |
 |------------|-----------------|
-| Easy       | Updating daily  |
+| Easy  3    | Updating daily  |
 | Medium     | Coming soon     |
 | Hard       | Coming soon     |
 
