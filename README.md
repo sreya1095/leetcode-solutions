@@ -44,7 +44,7 @@ Each solution includes:
 
 | Difficulty | Problems Solved |
 |------------|-----------------|
-| Easy       | 5               |
+| Easy       | 6               |
 | Medium     | 0               |
 | Hard       | 0               |
 
