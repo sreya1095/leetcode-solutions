@@ -1,95 +1,134 @@
 # 🚀 LeetCode Solutions (Java)
 
-This repository contains my LeetCode practice solutions implemented in **Java**.
+Welcome to my **LeetCode Solutions Repository** 👩‍💻
 
-I am solving problems daily to strengthen my understanding of **Data Structures & Algorithms** and prepare for technical interviews.
-
----
-
-## 📂 Repository Structure
-
-leetcode-solutions/
-│── easy/
-│── medium/
-│── hard/
-
-Each solution includes:
-
-- ✅ Problem Name  
-- ✅ Problem Link  
-- ✅ Approach Explanation  
-- ✅ Time Complexity  
-- ✅ Space Complexity  
-- ✅ Clean Java Implementation  
+This repository contains my solutions to **LeetCode problems implemented in Java**.
+I solve problems consistently to improve my **Data Structures & Algorithms (DSA)** skills and strengthen my **problem-solving ability for technical interviews**.
 
 ---
 
-## 🧠 Topics Covered
+# 🎯 Repository Goals
 
-- Arrays
-- Strings
-- Sliding Window
-- Stack
-- Recursion
-- Basic Math
-- Hashing
-- Two Pointers
-- Logic Building
-
-(More topics will be added as I progress)
+✔ Strengthen **DSA fundamentals**
+✔ Improve **problem-solving and logical thinking**
+✔ Practice **common coding interview patterns**
+✔ Write **clean, structured Java implementations**
+✔ Maintain **consistent GitHub activity**
 
 ---
 
-## 📈 Progress Tracker
+# 📂 Repository Structure
+
+```
+leetcode-solutions
+│
+├── easy
+├── medium
+├── hard
+│
+└── README.md
+```
+
+Each problem solution includes:
+
+* ✅ Problem Name
+* ✅ Problem Number
+* ✅ Problem Link
+* ✅ Approach Explanation
+* ✅ Time Complexity
+* ✅ Space Complexity
+* ✅ Clean Java Implementation
+
+---
+
+# 🧠 Topics Covered
+
+This repository includes problems from the following DSA topics:
+
+* Arrays
+* Strings
+* Sliding Window
+* Stack
+* Recursion
+* Basic Math
+* Hashing
+* Two Pointers
+* Logic Building
+
+More advanced topics will be added as my learning progresses.
+
+---
+
+# 📈 Progress Tracker
 
 | Difficulty | Problems Solved |
-|------------|-----------------|
+| ---------- | --------------- |
 | Easy       | 6               |
 | Medium     | 0               |
 | Hard       | 0               |
 
----
-
-## 🛠 How to Run the Code
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/leetcode-solutions.git
-   ```
-
-2. Navigate to the project:
-   ```bash
-   cd leetcode-solutions
-   ```
-
-3. Compile a Java file:
-   ```bash
-   javac easy/TwoSum.java
-   ```
-
-4. Run the program:
-   ```bash
-   java easy.TwoSum
-   ```
+I will update this tracker regularly as I solve more problems.
 
 ---
 
-## 🎯 My Goals
+# 🛠 How to Run the Code
 
-- 📌 Master Data Structures & Algorithms  
-- 📌 Solve 300+ LeetCode problems  
-- 📌 Build strong problem-solving intuition  
-- 📌 Stay consistent every single day  
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/leetcode-solutions.git
+```
+
+### 2️⃣ Navigate to the repository
+
+```bash
+cd leetcode-solutions
+```
+
+### 3️⃣ Compile a Java file
+
+```bash
+javac easy/TwoSum.java
+```
+
+### 4️⃣ Run the program
+
+```bash
+java easy.TwoSum
+```
 
 ---
 
-## 🌱 Learning Journey
+# 🧠 Problem Solving Approach
 
-This repository reflects my growth as a developer.  
-I believe in **consistency over intensity**.
+While solving each problem, I focus on:
 
-More structured solutions and advanced topics coming soon 🚀
+* Understanding the **problem constraints**
+* Writing a **clear algorithm/approach**
+* Optimizing for **better time complexity**
+* Implementing **clean and readable Java code**
 
 ---
 
-⭐ If you're also practicing DSA, feel free to explore and learn along with me!
+# 🎯 Long-Term Goals
+
+* 📌 Solve **300+ LeetCode problems**
+* 📌 Master **common DSA patterns**
+* 📌 Prepare for **software engineering interviews**
+* 📌 Build strong **problem-solving intuition**
+
+---
+
+# 🌱 Learning Journey
+
+This repository represents my **continuous learning journey** in Data Structures & Algorithms.
+
+I believe in:
+
+**Consistency + Practice + Clean Code = Strong Developer**
+
+More problems and advanced topics will be added regularly 🚀
+
+---
+
+⭐ If you're also practicing DSA, feel free to explore the repository and learn along with me!
