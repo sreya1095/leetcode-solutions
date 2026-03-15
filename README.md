@@ -63,7 +63,7 @@ More advanced topics will be added as my learning progresses.
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| Easy       | 6               |
+| Easy       | 7               |
 | Medium     | 2               |
 | Hard       | 0               |
 
