@@ -53,6 +53,7 @@ This repository includes problems from the following DSA topics:
 * Basic Math
 * Hashing
 * Two Pointers
+* Lists
 * Logic Building
 
 More advanced topics will be added as my learning progresses.
