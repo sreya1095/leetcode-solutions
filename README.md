@@ -65,7 +65,7 @@ More advanced topics will be added as my learning progresses.
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
 | Easy       | 8               |
-| Medium     | 6               |
+| Medium     | 7               |
 | Hard       | 0               |
 
 I will update this tracker regularly as I solve more problems.
