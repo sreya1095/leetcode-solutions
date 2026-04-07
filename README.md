@@ -2,73 +2,83 @@
 
 Welcome to my **LeetCode Solutions Repository** 👩‍💻
 
-This repository contains my solutions to **LeetCode problems implemented in Java**.
-I solve problems consistently to improve my **Data Structures & Algorithms (DSA)** skills and strengthen my **problem-solving ability for technical interviews**.
+This repository contains my solutions to LeetCode problems implemented in **Java**.  
+I consistently solve problems to strengthen my **Data Structures & Algorithms (DSA)** knowledge and prepare for **technical interviews at top companies**.
 
 ---
 
 # 🎯 Repository Goals
 
-✔ Strengthen **DSA fundamentals**
-✔ Improve **problem-solving and logical thinking**
-✔ Practice **common coding interview patterns**
-✔ Write **clean, structured Java implementations**
-✔ Maintain **consistent GitHub activity**
+✔ Master Data Structures & Algorithms  
+✔ Improve problem-solving and logical thinking  
+✔ Practice frequently asked coding interview questions  
+✔ Learn and apply optimized approaches  
+✔ Maintain consistent GitHub contributions  
 
 ---
 
 # 📂 Repository Structure
 
-```
-leetcode-solutions
-│
-├── easy
-├── medium
-├── hard
-│
-└── README.md
-```
+leetcode-solutions  
+│  
+├── easy  
+├── medium  
+├── hard  
+│  
+└── README.md  
 
-Each problem solution includes:
+---
 
-* ✅ Problem Name
-* ✅ Problem Number
-* ✅ Problem Link
-* ✅ Approach Explanation
-* ✅ Time Complexity
-* ✅ Space Complexity
-* ✅ Clean Java Implementation
+# 📌 What Each Solution Includes
+
+Each problem is well-structured with:
+
+- ✅ Problem Name & Number  
+- ✅ Problem Link  
+- ✅ Approach / Intuition  
+- ✅ Time Complexity  
+- ✅ Space Complexity  
+- ✅ Clean and optimized Java code  
 
 ---
 
 # 🧠 Topics Covered
 
-This repository includes problems from the following DSA topics:
+This repository includes problems from key DSA areas:
 
-* Arrays
-* Strings
-* Sliding Window
-* Stack
-* Recursion
-* Basic Math
-* Hashing
-* Two Pointers
-* Lists
-* Logic Building
+## 🔹 Core Topics
+- Arrays  
+- Strings  
+- Hashing (HashMap / HashSet)  
+- Two Pointers  
+- Sliding Window  
+- Stack  
 
-More advanced topics will be added as my learning progresses.
+## 🔹 Intermediate Patterns
+- Prefix Sum  
+- Bit Manipulation 🔥  
+- Recursion & Backtracking  
+- Greedy Algorithms  
+- Sorting & Searching  
+
+## 🔹 Advanced (Upcoming 🚀)
+- Dynamic Programming  
+- Graphs  
+- Trees & Binary Trees  
+- Heaps (Priority Queue)  
+- Tries  
 
 ---
 
 # 📈 Progress Tracker
 
 | Difficulty | Problems Solved |
-| ---------- | --------------- |
-| Easy       | 11              |
-| Medium     | 8               |
-| Hard       | 0               |
+|------------|----------------|
+| Easy       | 11             |
+| Medium     | 9              |
+| Hard       | 0              |
 
-I will update this tracker regularly as I solve more problems.
+📌 I update this regularly as I progress.
 
 ---
 
@@ -78,58 +88,51 @@ I will update this tracker regularly as I solve more problems.
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/leetcode-solutions.git
-```
 
-### 2️⃣ Navigate to the repository
-
-```bash
+### 2️⃣ Navigate to the folder
 cd leetcode-solutions
-```
 
-### 3️⃣ Compile a Java file
-
-```bash
+### 3️⃣ Compile Java file
 javac easy/TwoSum.java
-```
 
 ### 4️⃣ Run the program
-
-```bash
 java easy.TwoSum
-```
+🧠 Problem Solving Approach
 
----
+For every problem, I follow a structured approach:
 
-# 🧠 Problem Solving Approach
+Understand the problem and constraints
+Identify the pattern (Hashing, Sliding Window, etc.)
+Write a clear and optimal approach
+Optimize time & space complexity
+Implement clean, readable Java code
+🔥 Key Patterns Practiced
+HashMap / HashSet usage
+Sliding Window technique
+Two Pointer approach
+Prefix & Suffix computation
+Bit Manipulation tricks
+Backtracking
+🎯 Long-Term Goals
+📌 Solve 300+ LeetCode problems
+📌 Master all major DSA patterns
+📌 Crack product-based company interviews
+📌 Build strong problem-solving intuition
+📅 Consistency Strategy
 
-While solving each problem, I focus on:
+✔ Solve at least 1 problem daily
+✔ Focus on understanding patterns, not just solutions
+✔ Revise previously solved problems
+✔ Push meaningful commits regularly
 
-* Understanding the **problem constraints**
-* Writing a **clear algorithm/approach**
-* Optimizing for **better time complexity**
-* Implementing **clean and readable Java code**
+🌱 Learning Journey
 
----
+This repository reflects my continuous growth in DSA and problem solving.
 
-# 🎯 Long-Term Goals
+I strongly believe:
 
-* 📌 Solve **300+ LeetCode problems**
-* 📌 Master **common DSA patterns**
-* 📌 Prepare for **software engineering interviews**
-* 📌 Build strong **problem-solving intuition**
+Consistency + Problem Solving + Clean Code + GitHub = Strong Developer 🚀
 
----
+🤝 Let's Connect
 
-# 🌱 Learning Journey
-
-This repository represents my **continuous learning journey** in Data Structures & Algorithms.
-
-I believe in:
-
-**Consistency + Practice + Clean Code = Strong Developer**
-
-More problems and advanced topics will be added regularly 🚀
-
----
-
-⭐ If you're also practicing DSA, feel free to explore the repository and learn along with me!
+If you're also practicing DSA, feel free to explore this repository and learn along with me!
