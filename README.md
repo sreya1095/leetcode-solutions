@@ -74,8 +74,8 @@ This repository includes problems from key DSA areas:
 
 | Difficulty | Problems Solved |
 |------------|----------------|
-| Easy       | 14             |
-| Medium     | 10              |
+| Easy       | 15             |
+| Medium     | 10             |
 | Hard       | 1              |
 
 📌 I update this regularly as I progress.
@@ -88,51 +88,3 @@ This repository includes problems from key DSA areas:
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/leetcode-solutions.git
-
-### 2️⃣ Navigate to the folder
-cd leetcode-solutions
-
-### 3️⃣ Compile Java file
-javac easy/TwoSum.java
-
-### 4️⃣ Run the program
-java easy.TwoSum
-🧠 Problem Solving Approach
-
-For every problem, I follow a structured approach:
-
-Understand the problem and constraints
-Identify the pattern (Hashing, Sliding Window, etc.)
-Write a clear and optimal approach
-Optimize time & space complexity
-Implement clean, readable Java code
-🔥 Key Patterns Practiced
-HashMap / HashSet usage
-Sliding Window technique
-Two Pointer approach
-Prefix & Suffix computation
-Bit Manipulation tricks
-Backtracking
-🎯 Long-Term Goals
-📌 Solve 300+ LeetCode problems
-📌 Master all major DSA patterns
-📌 Crack product-based company interviews
-📌 Build strong problem-solving intuition
-📅 Consistency Strategy
-
-✔ Solve at least 1 problem daily
-✔ Focus on understanding patterns, not just solutions
-✔ Revise previously solved problems
-✔ Push meaningful commits regularly
-
-🌱 Learning Journey
-
-This repository reflects my continuous growth in DSA and problem solving.
-
-I strongly believe:
-
-Consistency + Problem Solving + Clean Code + GitHub = Strong Developer 🚀
-
-🤝 Let's Connect
-
-If you're also practicing DSA, feel free to explore this repository and learn along with me!
