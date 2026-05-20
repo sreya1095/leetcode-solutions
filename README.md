@@ -75,7 +75,7 @@ This repository includes problems from key DSA areas:
 | Difficulty | Problems Solved |
 |------------|----------------|
 | Easy       | 15             |
-| Medium     | 11             |
+| Medium     | 12             |
 | Hard       | 2              |
 
 📌 I update this regularly as I progress.
